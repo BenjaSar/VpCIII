@@ -1,0 +1,16 @@
+# Ignore all __pycache__ directories
+**/__pycache__/
+
+# Ignore all .pyc, .pyo, and .pyd files
+**/*.pyc
+**/*.pyo
+**/*.pyd
+*.py[cod]
+
+# Ignore all .tar.gz files
+**/*.tar.gz
+
+# Ignore everything inside any data folder
+**/data/**
+
+
